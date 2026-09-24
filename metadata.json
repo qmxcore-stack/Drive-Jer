@@ -1,0 +1,6 @@
+{
+  "name": "Rentals - Premium Car Rental",
+  "description": "Trusted MPV Rental in KL & Selangor with quality MPVs and other vehicle options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
