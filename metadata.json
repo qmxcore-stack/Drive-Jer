@@ -1,6 +1,6 @@
 {
-  "name": "DRIVEJER — Premium MPV Car Rental in KL & Selangor",
-  "description": "Premium MPV rental in KL & Selangor. Quality vehicles, comfortable journeys and reliable rental service.",
+  "name": "Drivejer — MPV Rental Specialist",
+  "description": "MPV Rental Specialist in KL & Selangor. Mudah. Cepat. Selamat.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
