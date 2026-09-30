@@ -1,0 +1,12 @@
+/*
+  Access-Control-Allow-Origin: *
+
+/preview.jpg
+  Content-Type: image/jpeg
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=604800
+
+/og-image.jpg
+  Content-Type: image/jpeg
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=604800
