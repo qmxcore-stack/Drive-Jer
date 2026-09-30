@@ -8,6 +8,10 @@ export default function Header() {
   const scrollTo = (id: 'home' | 'vehicles' | 'testimonials' | 'gallery') => {
     setActiveSection(id);
     setIsMenuOpen(false);
+    if (id === 'home') {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      return;
+    }
     const element = document.getElementById(id);
     if (element) {
       element.scrollIntoView({ behavior: 'smooth' });

@@ -21,7 +21,7 @@ export default function FeaturedCars({ onRent }: { onRent?: () => void } = {}) {
   };
 
   return (
-    <section id="vehicles" className="relative pt-6 sm:pt-8 pb-16 bg-[#fafbfa] overflow-hidden">
+    <section id="vehicles" className="relative pt-6 sm:pt-8 lg:pt-36 pb-16 bg-[#fafbfa] overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-20">
         {/* Header */}
         <div className="mb-10 text-center flex flex-col items-center">

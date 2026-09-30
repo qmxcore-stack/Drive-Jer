@@ -1,12 +1,8 @@
 /*
   Access-Control-Allow-Origin: *
 
-/preview.jpg
-  Content-Type: image/jpeg
-  Access-Control-Allow-Origin: *
-  Cache-Control: public, max-age=604800
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
 
-/og-image.jpg
-  Content-Type: image/jpeg
-  Access-Control-Allow-Origin: *
-  Cache-Control: public, max-age=604800
+/
+  Cache-Control: public, max-age=0, must-revalidate
