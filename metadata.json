@@ -1,6 +1,6 @@
 {
-  "name": "Rentals - Premium Car Rental",
-  "description": "Trusted MPV Rental in KL & Selangor with quality MPVs and other vehicle options.",
+  "name": "DRIVEJER — Premium MPV Car Rental in KL & Selangor",
+  "description": "Premium MPV rental in KL & Selangor. Quality vehicles, comfortable journeys and reliable rental service.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
