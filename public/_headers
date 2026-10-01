@@ -6,3 +6,13 @@
 
 /
   Cache-Control: public, max-age=0, must-revalidate
+
+/og-image.jpg
+  Access-Control-Allow-Origin: *
+  Content-Type: image/jpeg
+  Cache-Control: public, max-age=86400
+
+/og-image.png
+  Access-Control-Allow-Origin: *
+  Content-Type: image/png
+  Cache-Control: public, max-age=86400
