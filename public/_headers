@@ -1,18 +1,26 @@
 /*
   Access-Control-Allow-Origin: *
+  X-Robots-Tag: all
+
+/robots.txt
+  Access-Control-Allow-Origin: *
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=0, must-revalidate
 
 /index.html
   Cache-Control: public, max-age=0, must-revalidate
+  X-Robots-Tag: all
 
 /
   Cache-Control: public, max-age=0, must-revalidate
-
-/og-image.jpg
-  Access-Control-Allow-Origin: *
-  Content-Type: image/jpeg
-  Cache-Control: public, max-age=86400
+  X-Robots-Tag: all
 
 /og-image.png
   Access-Control-Allow-Origin: *
   Content-Type: image/png
+  Cache-Control: public, max-age=86400
+
+/og-image.jpg
+  Access-Control-Allow-Origin: *
+  Content-Type: image/jpeg
   Cache-Control: public, max-age=86400
